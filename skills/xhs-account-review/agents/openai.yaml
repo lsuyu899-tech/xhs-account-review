@@ -1,0 +1,4 @@
+interface:
+  display_name: "小红书账号数据复盘"
+  short_description: "把导出的笔记数据变成人话版HTML复盘与下一步行动"
+  default_prompt: "Use $xhs-account-review to analyze my exported Xiaohongshu post data and create a plain-language HTML review with next actions."

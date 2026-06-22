@@ -29,3 +29,17 @@ npx.cmd -y skills add lsuyu899-tech/xhs-account-review --skill xhs-account-revie
 ```
 
 Skill 源文件位于 [`skills/xhs-account-review/`](skills/xhs-account-review/)。
+
+## 版本管理
+
+仓库使用语义化版本号：
+
+- 修订分析规则或修复问题：`PATCH`
+- 增加新的分析输出或兼容字段：`MINOR`
+- 改变输入输出约定或不兼容行为：`MAJOR`
+
+稳定版本通过 Git tag 和 GitHub Releases 发布。
+
+## License
+
+[MIT](LICENSE)

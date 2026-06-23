@@ -73,6 +73,8 @@ Follow [references/review-output.md](references/review-output.md). Lead with the
 
 Default to a standalone local HTML report as the primary reading experience. Make it responsive, dependency-free, and usable by opening the file directly. Treat any spreadsheet as an optional audit attachment, not the main explanation.
 
+Name the primary HTML report `小红书账号复盘-YYYY-M-D.html`, using the current local date without leading zeroes. For example, on 2026-06-23, save the report as `小红书账号复盘-2026-6-23.html`.
+
 Always include:
 
 - Data scope and quality limitations.

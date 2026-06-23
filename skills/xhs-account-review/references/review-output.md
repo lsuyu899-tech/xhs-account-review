@@ -2,6 +2,8 @@
 
 Use this structure. Create a standalone HTML report by default. Keep it readable without external fonts, scripts, CDNs, or a web server. Attach an analysis workbook only when the user requests one or when it materially improves auditability.
 
+Save the primary HTML report as `小红书账号复盘-YYYY-M-D.html`, using the current local date without leading zeroes. For example, on 2026-06-23, use `小红书账号复盘-2026-6-23.html`.
+
 Design the HTML for a non-analyst reader:
 
 - Start with a direct, neutral statement of the account's current state in one or two sentences. Avoid second-person language so the report can be shared externally.
